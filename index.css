@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+body{
+    background-color #cccccc;
+    margin: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+
+
+.navbar img{
+    width: 150px;
+    height: 50px;
+
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    
+}
+.navitems{
+    margin-left: auto;
+    margin-right: auto;
+    word-spacing: 25px;
+}
+.button1{
+    padding: 20px;
+    border: none;
+    border-radius: 25px;
+    background-color: lightpink;
+    color: purple;
+    font-size: 15px;
+    margin-right: 50px;
+    margin-top: 5px;
+}
+.stunnig{
+    font-weight: 800px;
+    font-size: 60px;
+}
+.main{
+    margin-left: 250px;
+    margin-top: 50px;
+    
+}
+.para{
+    opacity: 60%;
+}
+.button2{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 30px;
+    background-color: #5243C0;
+    color: whitesmoke;
+    border:none;
+}
+.bodyimg{
+    display: flex;
+}
+.mainimg{
+    width: 550px;
+    height: 450px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.bodyimg img{
+    margin-top: 20px;
+}
+.pa1{
+    width: 20px;
+    height: 10px;
+    background-color: #FED7DA;
+    border-radius: 10px;
+}
+.vegla div{
+    display: inline;
+}
